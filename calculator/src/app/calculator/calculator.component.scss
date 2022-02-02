@@ -1,0 +1,38 @@
+.calculator {
+  position: relative;
+  margin: 7% auto auto auto;
+  width: 400px;
+  text-align: center;
+  border-color: rgb(99, 94, 97);
+  border-radius: 20px;
+}
+
+.result {
+  border-radius: 8px;
+}
+
+button {
+  border-radius: 8px;
+  width: 80px;
+  height: 65px;
+  font-size: 20px;
+  border: 2px solid;
+  border-color: rgb(87, 85, 85);
+  margin: 2px 2px 8px 2px;
+}
+
+.long {
+  width: 170px;
+}
+
+.responsive:hover {
+  background-color: rgb(138, 134, 134);
+  color: rgb(247, 240, 240);
+}
+
+input {
+  width: 350px;
+  height: 60px;
+  text-align: right;
+  font-size: 1.7em;
+}
